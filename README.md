@@ -10,3 +10,6 @@
 "move backward"
 "turn right"
 "turn left"
+
+# Schematics
+![Schematics](http://url/to/img.png)
