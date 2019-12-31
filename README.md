@@ -12,4 +12,4 @@
 "turn left"
 
 # Schematics
-![Schematics](http://url/to/img.png)
+![Schematics](https://github.com/ZhanSun/AlexaLego/blob/master/Schematics.png)
